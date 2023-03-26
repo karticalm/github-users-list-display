@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.userCard {
+  padding: 5px;
+  margin: 5px;
+  width: 25%;
+  background-color: azure;
+}
+
+.profile-img {
+  width: 95%;
+}
